@@ -1,0 +1,26 @@
+{
+  "name": "personal-diamonds-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "runcss": "0.0.11",
+    "webscript": "^0.2.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudgen/personal-diamonds-client.git"
+  },
+  "author": "Nick Mudge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudgen/personal-diamonds-client/issues"
+  },
+  "homepage": "https://github.com/mudgen/personal-diamonds-client#readme"
+}
